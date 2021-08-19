@@ -1,6 +1,4 @@
-# Product-Detection
-
-## Training + Evaluation :
+## Product-Detection : 0.90 mAP
 
     I have trained the yolov4 model using the product dataset.
     
@@ -16,7 +14,7 @@
     Evaluation:
     1. Calculated Precision, Recall and mAP.
 
-## Classification :
+## Classification :  99.97% acc on Test set
 
     I also tried classifying the products using GroceryDataset_part1/ProductImages, But I saw many products on the shelf are out of the 10 categories.
     
