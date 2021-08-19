@@ -54,7 +54,7 @@ The below shown are the detected bounding boxes on the image. Please visit the D
     
     Training:
     1. Implemented Tranfer Learning. 
-    2. Took an Inceptionv3 model and added a Dense layer of 10 neurons at tail of the network.
+    2. Took an Inceptionv3 model and added a Dense layer of 10 neurons at the tail of the network.
     3. Trained it for 5 epochs and achieved 99% accuracy on Training dataset.
    
 
