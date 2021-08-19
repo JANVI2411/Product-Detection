@@ -2,12 +2,9 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <br>
-    
+    <br> 
     <li><a href="#product-detection">Product Detection using Yolov4</a></li>
-    <li>
-      <a href="#output-of-the-model">Output of the Model</a>
-    </li>
+    <li><a href="#output-of-the-model">Output of the Model</a></li>
     <li><a href="#product-classification">Product Classification</a></li>
   </ol>
 </details>
