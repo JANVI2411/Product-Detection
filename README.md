@@ -15,6 +15,10 @@
 
 [Drive Link](https://drive.google.com/drive/folders/1x5H6Xn3B3Ha-t2uFy1NsouqSFxZC53Mk?usp=sharing)
     Plotted the detected bounding boxes on the image.
+<br>
+<br>
+<img src='./C1_P04_N1_S4_1.JPG' width=400>
+<img src='./C1_P05_N2_S4_2.JPG' width=400>
 
 ## Product Detection : 0.90 mAP
     
