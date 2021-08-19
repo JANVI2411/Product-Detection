@@ -4,7 +4,7 @@
   <ol>
     <br>
     <li>
-      <a href="#output-of-the-modek">Output of the Model</a>
+      <a href="#output-of-the-model">Output of the Model</a>
     </li>
     <li><a href="#product-detection">Product Detection using Yolov4</a></li>
     <li><a href="#product-classification">Product Classification</a></li>
@@ -20,7 +20,7 @@
 <img src='./C1_P04_N1_S4_1.JPG' width=400>
 <img src='./C1_P05_N2_S4_2.JPG' width=400>
 
-## Product Detection : 0.90 mAP
+## Product Detection: 0.90 mAP
     
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1m0tyYgvedOYufOlRcGjJW5UzkPxEgWM7?usp=sharing)
     
