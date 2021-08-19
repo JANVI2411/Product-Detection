@@ -6,7 +6,7 @@
     <li>
       <a href="#output-of-the-model">Output of the Model</a>
     </li>
-    <li><a href="#product-detection-:-0.90-map">Product Detection using Yolov4</a></li>
+    <li><a href="#product-detection-0.90-map">Product Detection using Yolov4</a></li>
     <li><a href="#product-classification">Product Classification</a></li>
   </ol>
 </details>
