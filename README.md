@@ -4,14 +4,14 @@
   <ol>
     <br>
     <li>
-      <a href="#output-folder-link">Output of the Model</a>
+      <a href="#output-of-the-modek">Output of the Model</a>
     </li>
     <li><a href="#product-detection">Product Detection using Yolov4</a></li>
     <li><a href="#product-classification">Product Classification</a></li>
   </ol>
 </details>
 
-## Output folder link:
+## Output of the Model:
 
 [Drive Link](https://drive.google.com/drive/folders/1x5H6Xn3B3Ha-t2uFy1NsouqSFxZC53Mk?usp=sharing)
     Plotted the detected bounding boxes on the image.
