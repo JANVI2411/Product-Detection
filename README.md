@@ -38,7 +38,10 @@
     Evaluation:
     1. Calculated Precision, Recall and mAP.
 
-## Product Classification :  99.97% acc on Test set
+## Product Classification:
+
+Achieved 99.97% accuracy  on Test set
+<br>
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ay6A9mb1PeaiWLB9Oh-79XtckLuXfAc5?usp=sharing)
 [Drive Folder of Augmented Images](https://drive.google.com/drive/folders/1btYOQfTe7QTFAMuf8ljPsvsTryisBbXB?usp=sharing)
