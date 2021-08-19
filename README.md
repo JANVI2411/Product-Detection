@@ -6,7 +6,7 @@
     <li>
       <a href="#output-of-the-model">Output of the Model</a>
     </li>
-    <li><a href="#product-detection-0.90-map">Product Detection using Yolov4</a></li>
+    <li><a href="#product-detection">Product Detection using Yolov4</a></li>
     <li><a href="#product-classification">Product Classification</a></li>
   </ol>
 </details>
@@ -20,11 +20,11 @@
 <img src='./C1_P04_N1_S4_1.JPG' width=400>
 <img src='./C1_P05_N2_S4_2.JPG' width=400>
 
-## Product Detection: 0.90 mAP
-    
+## Product Detection:
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1m0tyYgvedOYufOlRcGjJW5UzkPxEgWM7?usp=sharing)
     
-    I have trained the yolov4 model using the product dataset.
+    I have trained the yolov4 model using the product dataset with 0.90 mAP.
     
     Dataset Preparation:
     1. Created a txt file containing the coordinates of the bounding boxes for each image
