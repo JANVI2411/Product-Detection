@@ -37,13 +37,15 @@
 ## Product Classification :  99.97% acc on Test set
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ay6A9mb1PeaiWLB9Oh-79XtckLuXfAc5?usp=sharing)
+[Drive Folder of Augmented Images](https://drive.google.com/drive/folders/1btYOQfTe7QTFAMuf8ljPsvsTryisBbXB?usp=sharing)
 
     I also tried classifying the products using GroceryDataset_part1/ProductImages, But I saw many products on the shelf are out of the 10 categories.
     
     Dataset Prepartion:
     1. Created Dataloader using Tensorflow tf.data
     2. Image Augmentation ( Random flip, rotation, saturation, centre_zoom ) 
-    3. Augmented Images's folder: https://drive.google.com/drive/folders/1btYOQfTe7QTFAMuf8ljPsvsTryisBbXB?usp=sharing
+    3. Augmented Images's folder: 
+
     
     Training:
     1. Used Tranfer Learning
