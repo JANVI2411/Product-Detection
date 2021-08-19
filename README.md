@@ -45,7 +45,7 @@ Achieved 99.97% accuracy  on Test set
 <br>
 [Drive Folder of Augmented Images](https://drive.google.com/drive/folders/1btYOQfTe7QTFAMuf8ljPsvsTryisBbXB?usp=sharing)
 
-    I also tried classifying the products using GroceryDataset_part1/ProductImages, but I obseved many products on the shelf are out of the provided dataset's 
+    I also tried classifying the products using GroceryDataset_part1/ProductImages, but I obseved many products on the shelf are out of the provided 
     10 categories.
     
     Dataset Prepartion:
