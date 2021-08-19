@@ -33,8 +33,8 @@ The below shown are the detected bounding boxes on the image. Please visit the D
 [Drive Link](https://drive.google.com/drive/folders/1x5H6Xn3B3Ha-t2uFy1NsouqSFxZC53Mk?usp=sharing)
 <br>
 <br>
-<img src='./C1_P04_N1_S4_1.JPG' width=400>
-<img src='./C1_P05_N2_S4_2.JPG' width=400>
+<img src='./output_images/C1_P04_N1_S4_1.JPG' width=400>
+<img src='./output_images/C1_P05_N2_S4_2.JPG' width=400>
 
 ## Product Classification:
 
@@ -45,12 +45,11 @@ Achieved 99.97% accuracy  on Test set
 <br>
 [Drive Folder of Augmented Images](https://drive.google.com/drive/folders/1btYOQfTe7QTFAMuf8ljPsvsTryisBbXB?usp=sharing)
 
-    I also tried classifying the products using GroceryDataset_part1/ProductImages, but I obseved many product categories on the shelf are not available in the provided 
-    Dataset.
+    I also implemented classification model for products using GroceryDataset_part1/ProductImages Dataset, but I obseved many product categories on the shelf are not available in the provided Dataset.
     
     Dataset Prepartion:
-    1. Created Dataloader using Tensorflow tf.data
-    2. Image Augmentation ( Random flip, rotation, saturation, centre_zoom )  (Drive link is provided) 
+    1. Created Dataloader using Tensorflow "tf.data".
+    2. Image Augmentation (Random flip, rotation, saturation, centre_zoom) (Drive link has been provided) 
     
     Training:
     1. Implemented Tranfer Learning. 
