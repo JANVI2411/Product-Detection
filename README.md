@@ -48,15 +48,11 @@ Achieved 99.97% accuracy  on Test set
     
     Dataset Prepartion:
     1. Created Dataloader using Tensorflow tf.data
-    2. Image Augmentation ( Random flip, rotation, saturation, centre_zoom ) 
-    3. Augmented Images's folder (Drive link is provided) 
-
+    2. Image Augmentation ( Random flip, rotation, saturation, centre_zoom )  (Drive link is provided) 
     
     Training:
-    1. Used Tranfer Learning
+    1. Implemented Tranfer Learning. 
     2. Took an Inceptionv3 model and added a Dense layer of 10 neurons at tail of the network.
-    3. Trained it for 5 epochs
-    
-    I achieved 99.97% accuracy on test set.
+    3. Trained it for 5 epochs and achieved 99% accuracy on Training dataset.
    
 
