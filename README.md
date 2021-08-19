@@ -2,6 +2,7 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
+    <br>
     <li>
       <a href="#output-folder-link">Output of the Model</a>
     </li>
@@ -12,8 +13,8 @@
 
 ## Output folder link:
 
-    https://drive.google.com/drive/folders/1x5H6Xn3B3Ha-t2uFy1NsouqSFxZC53Mk?usp=sharing
-    Plotted bounding boxes on the image.
+[Drive Link](https://drive.google.com/drive/folders/1x5H6Xn3B3Ha-t2uFy1NsouqSFxZC53Mk?usp=sharing)
+    Plotted the detected bounding boxes on the image.
 
 ## Product Detection : 0.90 mAP
     
