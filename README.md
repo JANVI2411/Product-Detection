@@ -19,7 +19,7 @@
     1. Created "txt" files containing the coordinates of the bounding boxes for each image.
     2. Txt file format : class mid_x mid_y width height \n class mid_x mid_y width height ... for n items/image.
     3. The bounding box should be normalized by Image's width and height.
-    4. Created a configuration file with class=1 , as we are only interested at product/no_prodct detection.
+    4. Created a configuration file with class=1, as we are only interested at product/no_prodct detection.
     
     Training:
     1. Trained the network for 1000 epochs.
