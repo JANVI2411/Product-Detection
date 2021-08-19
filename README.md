@@ -44,7 +44,7 @@
     Dataset Prepartion:
     1. Created Dataloader using Tensorflow tf.data
     2. Image Augmentation ( Random flip, rotation, saturation, centre_zoom ) 
-    3. Augmented Images's folder: 
+    3. Augmented Images's folder (Drive link is provided) 
 
     
     Training:
