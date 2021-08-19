@@ -10,6 +10,7 @@
 </details>
 
 ## Product Detection:
+#### mAP : 0.90
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1m0tyYgvedOYufOlRcGjJW5UzkPxEgWM7?usp=sharing)
     
@@ -37,8 +38,8 @@ The below shown are the detected bounding boxes on the image. Please visit the D
 <img src='./output_images/C1_P05_N2_S4_2.JPG' width=400>
 
 ## Product Classification:
+#### Test Data Accuracy: 99.97%
 
-Achieved 99.97% accuracy  on Test set
 <br>
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ay6A9mb1PeaiWLB9Oh-79XtckLuXfAc5?usp=sharing)
