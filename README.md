@@ -1,3 +1,5 @@
+## Output folder link: https://drive.google.com/drive/folders/1x5H6Xn3B3Ha-t2uFy1NsouqSFxZC53Mk?usp=sharing
+
 ## Product-Detection : 0.90 mAP
 
     I have trained the yolov4 model using the product dataset.
