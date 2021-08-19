@@ -3,22 +3,14 @@
   <summary>Table of Contents</summary>
   <ol>
     <br>
+    
+    <li><a href="#product-detection">Product Detection using Yolov4</a></li>
     <li>
       <a href="#output-of-the-model">Output of the Model</a>
     </li>
-    <li><a href="#product-detection">Product Detection using Yolov4</a></li>
     <li><a href="#product-classification">Product Classification</a></li>
   </ol>
 </details>
-
-## Output of the Model:
-
-[Drive Link](https://drive.google.com/drive/folders/1x5H6Xn3B3Ha-t2uFy1NsouqSFxZC53Mk?usp=sharing)
-    Plotted the detected bounding boxes on the image.
-<br>
-<br>
-<img src='./C1_P04_N1_S4_1.JPG' width=400>
-<img src='./C1_P05_N2_S4_2.JPG' width=400>
 
 ## Product Detection:
 
@@ -37,6 +29,15 @@
     
     Evaluation:
     1. Calculated Precision, Recall and mAP.
+
+## Output of the Model:
+
+The below shown are the detected bounding boxes on the image. Please visit the Drive link to checkout more Output Images.
+[Drive Link](https://drive.google.com/drive/folders/1x5H6Xn3B3Ha-t2uFy1NsouqSFxZC53Mk?usp=sharing)
+<br>
+<br>
+<img src='./C1_P04_N1_S4_1.JPG' width=400>
+<img src='./C1_P05_N2_S4_2.JPG' width=400>
 
 ## Product Classification:
 
@@ -61,3 +62,4 @@ Achieved 99.97% accuracy  on Test set
     
     I achieved 99.97% accuracy on test set.
    
+
