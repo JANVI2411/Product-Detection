@@ -4,6 +4,7 @@ Plotted bounding boxes on the image.
 
 ## Product-Detection : 0.90 mAP
 
+    Colab notebook: https://colab.research.google.com/drive/1m0tyYgvedOYufOlRcGjJW5UzkPxEgWM7?usp=sharing
     I have trained the yolov4 model using the product dataset.
     
     Dataset Preparation:
@@ -20,6 +21,7 @@ Plotted bounding boxes on the image.
 
 ## Classification :  99.97% acc on Test set
 
+    Colab notebook: https://colab.research.google.com/drive/1Ay6A9mb1PeaiWLB9Oh-79XtckLuXfAc5?usp=sharing
     I also tried classifying the products using GroceryDataset_part1/ProductImages, But I saw many products on the shelf are out of the 10 categories.
     
     Dataset Prepartion:
