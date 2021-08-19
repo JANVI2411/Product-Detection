@@ -3,24 +3,10 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
+      <a href="#output-folder-link">Output of the Model</a>
     </li>
-    <li>
-      <a href="#output-folder-link">Output folder link</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#product-detection">Product Detection using Yolov4</a></li>
+    <li><a href="#product-classification">Product Classification</a></li>
   </ol>
 </details>
 
@@ -47,7 +33,7 @@
     Evaluation:
     1. Calculated Precision, Recall and mAP.
 
-## Classification :  99.97% acc on Test set
+## Product Classification :  99.97% acc on Test set
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ay6A9mb1PeaiWLB9Oh-79XtckLuXfAc5?usp=sharing)
 
