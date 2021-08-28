@@ -46,7 +46,7 @@ The below shown are the detected bounding boxes on the image. Please visit the D
 <br>
 [Drive Folder of Augmented Images](https://drive.google.com/drive/folders/1btYOQfTe7QTFAMuf8ljPsvsTryisBbXB?usp=sharing)
 
-    I also implemented classification model for products using GroceryDataset_part1/ProductImages Dataset, but I obseved many product categories on the shelf are not available in the provided Dataset.
+    I also implemented classification model for products using GroceryDataset_part1/ProductImages Dataset, but I observed many product categories on the shelf are not available in the provided Dataset.
     
     Dataset Prepartion:
     1. Created Dataloader using Tensorflow "tf.data".
